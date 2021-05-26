@@ -6,6 +6,10 @@ authors = ["Rawan199812 <rawan.13579@icloud.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.4"
+matplotlib = "^3.4.2"
+jupyterlab = "^3.0.16"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
